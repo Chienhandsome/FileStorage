@@ -6,7 +6,7 @@
     android:background="#000000">
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#000000"
         android:minHeight="68dp"
