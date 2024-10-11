@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179839557356",
+    "project_id": "file-storage-16a58",
+    "storage_bucket": "file-storage-16a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179839557356:android:4f4ac06ed3483f033dcfc9",
+        "android_client_info": {
+          "package_name": "com.example.filestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACY8fTeAXf2YWNoiBCQTxW9cnmelsp3o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
